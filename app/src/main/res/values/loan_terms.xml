@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="la">Fonds Rapides peut accorder un prêt instantané pour aider toute personne aux États-Unis qui a besoin d\'argent pour développer son entreprise, faire du shopping ou financer toute autre urgence.</string>
+    <string name="lb">1.Produit:</string>
+    <string name="lc">• Montant du prêt: €10 - €2500</string>
+    <string name="ld">• Période de prêt: 90jours - 365jours</string>
+    <string name="le">Limite maximale de prêt: €2500</string>
+    <string name="lf">Faible taux d\'intérêt (APR maximum): 12% par an</string>
+    <string name="lg">Par exemple : pour un prêt de €200 d\'une durée de 90 jours, les frais facturés sont les suivants :</string>
+    <string name="lh">Taux d\'intérêt mensuel ： 12% / 12 = 1,00%</string>
+    <string name="li">Intérêt mensuel ： €200 * 1,00 % = €2</string>
+    <string name="lj">Paiement mensuel total ：€200 / 3 + €2 = €68,67</string>
+    <string name="lk">La facture totale de remboursement, principal et intérêts compris, sera de:</string>
+    <string name="ll">€200 + €200* 1,00%*3 = €206</string>
+    <string name="lm">1.Pourquoi emprunter chez Fonds Rapides?</string>
+    <string name="ln">• Aucun rapport de crédit requis</string>
+    <string name="lo">• Processus sans papier et numérique sur votre mobile</string>
+    <string name="lp">• Aucune exigence de garantie</string>
+    <string name="lq">• Obtenez un accès 7/24 au prêt à tout moment et n\'importe où</string>
+    <string name="lr">• Nous déboursons directement sur votre compte bancaire dans les 30 minutes une fois approuvé</string>
+    <string name="ls">• Disponible dans toute la France.</string>
+    <string name="lt">• À mesure que la cote de crédit augmente, la limite de prêt augmente progressivement</string>
+    <string name="lu">• Variété de méthodes de remboursement pratiques</string>
+    <string name="lv">• Vous pouvez demander une prolongation de prêt si vous n\'avez pas assez d\'argent pour rembourser</string>
+    <string name="lw">2.Qui peut demander un prêt</string>
+    <string name="lx">• Résident Français</string>
+    <string name="lz">• 18-60 ans</string>
+    <string name="ma">• A une source de revenu.</string>
+    <string name="mb">3.Comment rembourser le prêt ?</string>
+    <string name="mc">Vous pouvez nous rembourser via notre numéro de compte bancaire qui vous sera fourni une fois que vous aurez emprunté votre prêt.</string>
+    <string name="md">• Entrez le montant que vous souhaitez payer</string>
+    <string name="me">• Un bon remboursement augmentera votre pointage de crédit</string>
+    <string name="mf">4. Sécurité</string>
+    <string name="mg">Vos données sont en sécurité avec nous. Il nous est transféré via une connexion HTTPS sécurisée et nous ne le partageons avec personne sans votre consentement, à l\'exception des prêteurs. Toutes les transactions sont sécurisées via un cryptage SSL 128 bits.</string>
+    <string name="mh">5.NOUS CONTACTER</string>
+    <string name="mi">Si vous avez des questions, vous pouvez nous envoyer un courriel à vclxservices@yahoo.com</string>
+
+</resources>

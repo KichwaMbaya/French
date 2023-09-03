@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390583697928",
+    "project_id": "french-16cc0",
+    "storage_bucket": "french-16cc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390583697928:android:4a9ad5ed912b129a5b87bd",
+        "android_client_info": {
+          "package_name": "com.justkeepfaith.cryintears"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390583697928-sbl2m7dr8qbdop1j72ftlbv2v33jtark.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgELxVfhsgM9l3qQa1qzL_cxnZ8QtL3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390583697928-sbl2m7dr8qbdop1j72ftlbv2v33jtark.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
